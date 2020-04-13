@@ -1,0 +1,13 @@
+{
+    "python.venvPath": "C:\\Users\\familia\\Desktop\\TI\\Python\\VS Code - Django Env",
+    "python.pythonPath": "C:\\Users\\familia\\Desktop\\TI\\Python\\VS Code - Django Env\\ambiente\\Scripts\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django"
+    ],
+    "python.linting.pylintPath": "pylint_django",
+    "python.linting.enabled": true,
+    "python.linting.pylintUseMinimalCheckers": false,
+    
+}
